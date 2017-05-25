@@ -1,0 +1,6 @@
+<meta>
+	<info name="clienthttp" author="Katalina" type="script" />
+
+	<script src="clienthttp.js" lang="javascript" type="client" />
+	<script src="clienthttp.cs" lang="csharp" type="server" />
+</meta>

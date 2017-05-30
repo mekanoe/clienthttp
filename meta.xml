@@ -3,4 +3,6 @@
 
 	<script src="clienthttp.js" lang="javascript" type="client" />
 	<script src="clienthttp.cs" lang="csharp" type="server" />
+
+	<assembly ref="System.Net.Http.dll" />
 </meta>
